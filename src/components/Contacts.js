@@ -9,10 +9,10 @@ export default function Contacts(){
                         {/* Text beside Image */}
                         <div className="md:w-1/2 flex flex-col justify-center">
                         <p> If you want to discuss more in detail, <br></br>contact me!</p><br></br>
-             <p>Email: <a href="#" className="underline text-violet-700">ashwinirbtechcse@gmail.com</a></p>
-  <p>LinkedIn: <a href="" className="underline text-violet-700">linkedin.com/in/ashwiniravi</a></p>
-  <p>GitHub: <a href="" className="underline text-violet-700" >github.com/ashwiniravi</a></p>
-  <p>Portfolio: <a href="" className="underline text-violet-700">ashwiniravichandiran.me</a></p>
+             <p>Email: <a href="ashwinirbtechcse@gmail.com" className="underline text-violet-700">ashwinirbtechcse@gmail.com</a></p>
+  <p>LinkedIn: <a href="(25) Ashwini Ravichandiran | LinkedIn" className="underline text-violet-700">linkedin.com/in/ashwiniravi</a></p>
+  <p>GitHub: <a href="https://github.com/ashwiniravichandiran" className="underline text-violet-700" >github.com/ashwiniravi</a></p>
+  <p>Portfolio: <a href="https://github.com/ashwiniravichandiran/Portfolio" className="underline text-violet-700">ashwiniravichandiran.me</a></p>
   
                         </div>
 
