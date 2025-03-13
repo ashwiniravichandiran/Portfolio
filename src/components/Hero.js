@@ -4,7 +4,7 @@ import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineCode } from "react-icons/a
 export default function Hero(){
     return <section className='text-center text-stone-300 bg-primary' >
         <div className='relative w-11/12 mx-auto border-x-0 text-stone-300 overflow-hidden'>
-        <img src={front} className="w-full h-[750px] object-cover"/>
+        <img src={front} className="w-full h-[750px] object-cover" alt='front'/>
         <div className="w-1/2 flex-col absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl shadow-lg font-hero-font italic">
             <h1>Hi, I'm Ashwini Ravichandiran</h1>
             <p>React Developer | ML & Data Science Enthusiast</p>

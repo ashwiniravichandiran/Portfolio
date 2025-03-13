@@ -28,15 +28,3 @@ export default function Contacts(){
 }
 
 
-{/* <section id="contacts">
-             <div className="font-nav-font italic text-center">
-             <div className="w-[1px] h-16 bg-gray-400 mx-auto"></div>
-             <h1 className="py-20 font-extrabold text-2xl">CONTACT</h1>
-             <p> If you want to discuss more in detail, contact me!</p>
-             <p>Email: <a href="#" className="underline text-violet-700">ashwinirbtechcse@gmail.com</a></p>
-  <p>LinkedIn: <a href="" className="underline text-violet-700">linkedin.com/in/ashwiniravi</a></p>
-  <p>GitHub: <a href="" className="underline text-violet-700" >github.com/ashwiniravi</a></p>
-  <p>Portfolio: <a href="" className="underline text-violet-700">ashwiniravichandiran.me</a></p>
-  
-             </div>
-    </section> */}

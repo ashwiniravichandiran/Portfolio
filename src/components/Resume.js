@@ -1,17 +1,4 @@
-// import resume from '../assets/good_enough.jpg';
-// export default function Resume(){
-//     return <section className='flex flex-col md:flex-row px-5'>
-//         <div className="font-nav-font italic text-center">
-//         <h1 className="py-16 font-extrabold text-2xl">RESUME</h1>
-//         <div className='py-5 md:w-1/2 justify-center'>
-//          <img className='w-[300px] h-[150px]' src = {resume}/>
-//         </div>
-//         <div className='md:w-1/2 flex flex-col justify-center text-left'>
-//         <p> You can view my Resume <a href='#'> Download </a></p>
-//         </div>
-//         </div>
-//     </section>
-// }
+
 
 import resume from '../assets/good_enough.jpg';
 
